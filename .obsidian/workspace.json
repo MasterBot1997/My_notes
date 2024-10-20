@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -233,14 +233,16 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "f1441c16c9f74c59",
+  "active": "0edfb87f0af3d115",
   "lastOpenFiles": [
-    "My_notes",
-    "rsync/Описание утилиты.md",
-    "BitrixVM/Создание сайта.md",
-    "Работа с Tmux.md",
-    "Полезные команды.md",
+    "().md",
     "BitrixVM/Заметки по системе.md",
+    "BitrixVM/Создание сайта.md",
+    "rsync/Описание утилиты.md",
+    "Полезные команды.md",
+    "Docker/Курс по Docker.md",
+    "My_notes",
+    "Работа с Tmux.md",
     "rsync/Полезные команды.md",
     "Настройка ftp для сервера/Примеры тикетов с решение проблем FTP.md",
     "Работа с Nexus.md",
@@ -258,11 +260,9 @@
     "MySQL",
     "Bash/Регулярки.md",
     "Bash",
-    "Docker/Курс по Docker.md",
     "Docker",
     "Настройка ftp для сервера",
     "rsync",
-    "HestiaCP",
-    "BitrixVM"
+    "HestiaCP"
   ]
 }
