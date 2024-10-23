@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Дуступы VPN/Пароль.md",
+                "file": "Minecrraft/Команды.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Пароль"
+              "title": "Команды"
             }
           },
           {
@@ -235,6 +235,15 @@
   },
   "active": "0169207bd0344f5d",
   "lastOpenFiles": [
+    "Minecrraft/Buckup.md",
+    "Minecrraft/Команды.md",
+    "Minecrraft/Rclone - для синхронизации с облачным хранилищем.md",
+    "Minecrraft/Основные моменты по серверу.md",
+    "Работа с Tmux.md",
+    "Bash/tar.md",
+    "Без названия.md",
+    "Minecrraft",
+    "Дуступы VPN/Пароль.md",
     "ISP Manager/О панели.md",
     "rsync/Описание утилиты.md",
     "ISP Manager/Чиним панельку.md",
@@ -242,7 +251,6 @@
     "PHP/Debug.md",
     "PHP/PHPmail().md",
     "UFW/Ссылки.md",
-    "Дуступы VPN/Пароль.md",
     "UFW",
     "Вопросы.md",
     "WordPress/Перенос.md",
@@ -257,19 +265,11 @@
     "Полезные команды.md",
     "Docker/Курс по Docker.md",
     "My_notes",
-    "Работа с Tmux.md",
     "Настройка ftp для сервера/Примеры тикетов с решение проблем FTP.md",
     "Работа с Nexus.md",
     "VestaCP",
-    "Docker/Docker-compose основы.md",
     "PHP",
-    "Docker/Docker основы работы с контейнером.md",
-    "MySQL/Основные команды в консоли MySQL.md",
     "Docker/Без названия",
-    "MySQL/Команда mysqldump.md",
-    "MySQL/Команда MySQL.md",
-    "Bash/Скрипты.md",
-    "MySQL",
-    "Bash"
+    "MySQL"
   ]
 }
