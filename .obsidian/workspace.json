@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHP/Тэги, настройки, особенности.md",
+                "file": "Неделя 1.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Тэги, настройки, особенности"
+              "title": "Неделя 1"
             }
           }
         ],
@@ -207,21 +207,23 @@
   },
   "active": "6e60a3615cb129c5",
   "lastOpenFiles": [
-    "Неделя 1.md",
     "Утилиты Beget.md",
-    "HestiaCP/Перенос сайта.md",
-    "HestiaCP/CLI Reference.md",
+    "Неделя 1.md",
+    "Полезные команды.md",
     "Вопросы.md",
+    "HestiaCP/CLI Reference.md",
+    "ISP Manager/О панели.md",
+    "HestiaCP/Перенос сайта.md",
+    "WordPress/Перенос.md",
+    "PHP/Тэги, настройки, особенности.md",
     "Bash/tar.md",
     "Без названия",
     "fail2ban/Мои настройки.md",
     "fail2ban",
-    "WordPress/Перенос.md",
     "Чек-лист.md",
     "Работа с Nexus.md",
     "BitrixVM/Заметки по системе.md",
     "Docker/Курс по Docker.md",
-    "Полезные команды.md",
     "test.html",
     "Minecrraft/Основные моменты по серверу.md",
     "Minecrraft/Команды.md",
@@ -230,10 +232,8 @@
     "Работа с Tmux.md",
     "Minecrraft",
     "Дуступы VPN/Пароль.md",
-    "ISP Manager/О панели.md",
     "rsync/Описание утилиты.md",
     "ISP Manager/Чиним панельку.md",
-    "PHP/Тэги, настройки, особенности.md",
     "PHP/Debug.md",
     "PHP/PHPmail().md",
     "UFW/Ссылки.md",
