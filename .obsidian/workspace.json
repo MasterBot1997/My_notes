@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ISP Manager/О панели.md",
+                "file": "Неделя 2.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "О панели"
+              "title": "Неделя 2"
             }
           }
         ],
@@ -221,6 +221,8 @@
   },
   "active": "b0f2e2a47e01766b",
   "lastOpenFiles": [
+    "Неделя 1.md",
+    "ISP Manager/О панели.md",
     "Неделя 2.md",
     "Bash/fsck.md",
     "Bash/swap/Как использовать.md",
@@ -237,10 +239,8 @@
     "Bash/swap/Описание.md",
     "Bash/swap",
     "Bash/top",
-    "Неделя 1.md",
     "PHP/Тэги, настройки, особенности.md",
     "ISP Manager/Чиним панельку.md",
-    "ISP Manager/О панели.md",
     "HestiaCP/CLI Reference.md",
     "Утилиты Beget.md",
     "Полезные команды.md",
