@@ -69,16 +69,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PodtgreSQL/Изменение пароля пользователя.md",
+                "file": "BitrixVM/Установка серта.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Изменение пароля пользователя"
+              "title": "Установка серта"
+            }
+          },
+          {
+            "id": "8da1db0b771ee44f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ISP Manager/БО как включить удаленный доступ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "БО как включить удаленный доступ"
+            }
+          },
+          {
+            "id": "3cc615dba8eaa8e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Certbot/LE wildcard.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LE wildcard"
+            }
+          },
+          {
+            "id": "6a2686fd656fbe73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Проверка отправки почты.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Проверка отправки почты"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -219,44 +261,44 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "b0f2e2a47e01766b",
+  "active": "6a2686fd656fbe73",
   "lastOpenFiles": [
-    "MySQL/Сброс root пароля.md",
-    "PodtgreSQL/Изменение пароля пользователя.md",
-    "PodtgreSQL/Выявление нагрузки.md",
-    "MySQL/Команда MySQL.md",
-    "PodtgreSQL",
-    "MySQL/Пакет MySQL.md",
-    "MySQL/Основные команды в консоли MySQL.md",
-    "MySQL/Команда mysqldump.md",
-    "PHP/request_terminate_timeout.md",
-    "PHP/PHP slow logs.md",
-    "Bash/lsof.md",
-    "BitrixVM/Логи панели.md",
-    "Неделя 1.md",
-    "Чиним grub.md",
-    "Снимок экрана 2024-11-03 103735.png",
+    "Certbot/LE wildcard.md",
+    "Проверка отправки почты.md",
+    "Certbot/Standart Let's Encrypt.md",
+    "Виды челенджей Let's Encrypt.md",
+    "ISP Manager/БО как включить удаленный доступ.md",
     "ISP Manager/О панели.md",
-    "Сеть/Iptables.md",
-    "Сеть",
-    "fail2ban/Работа с fail2ban.md",
-    "beget/sprutio vps.md",
-    "beget/beget vpn.md",
-    "beget",
-    "BitrixVM/Установка серта.md",
-    "BitrixVM/Смена версии PHP.md",
-    "BitrixVM/Расширения PHP.md",
+    "ISP Manager/Чиним панельку.md",
+    "Настройка ftp для сервера/Примеры тикетов с решение проблем FTP.md",
+    "Certbot",
+    "Дуступы VPN/Пароль.md",
+    "Вопросы.md",
+    "MySQL/SQL Mode.md",
+    "MySQL/Настройка my.cnf.md",
+    "MySQL/Команда MySQL.md",
+    "MySQL/Команда mysqldump.md",
+    "MySQL/Основные команды в консоли MySQL.md",
+    "MySQL/Пакет MySQL.md",
+    "WordPress/Перенос.md",
+    "HestiaCP/Перенос сайта.md",
+    "Работа с Nexus.md",
+    "Работа с Tmux.md",
+    "Снимок экрана 2024-11-03 103735.png",
+    "Утилиты Beget.md",
+    "Чек-лист.md",
+    "Чиним grub.md",
     "Неделя 2.md",
-    "Bash/fsck.md",
-    "Bash/swap/Как использовать.md",
-    "Bash/top/Полезные комманды.md",
-    "Bash/top/Описание утилиты.md",
+    "Неделя 1.md",
+    "BitrixVM/Расширения PHP.md",
+    "PodtgreSQL",
+    "Сеть",
+    "beget",
     "Bash/swap",
     "Bash/top",
     "fail2ban",
     "test.html",
     "Minecrraft",
-    "UFW",
-    "WordPress"
+    "UFW"
   ]
 }
