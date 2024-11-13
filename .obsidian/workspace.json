@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Проверка отправки почты.md",
+                "file": "Вопросы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Проверка отправки почты"
+              "title": "Вопросы"
             }
           }
         ],
@@ -263,8 +263,8 @@
   },
   "active": "6a2686fd656fbe73",
   "lastOpenFiles": [
-    "Certbot/LE wildcard.md",
     "Проверка отправки почты.md",
+    "Certbot/LE wildcard.md",
     "Certbot/Standart Let's Encrypt.md",
     "Виды челенджей Let's Encrypt.md",
     "ISP Manager/БО как включить удаленный доступ.md",
