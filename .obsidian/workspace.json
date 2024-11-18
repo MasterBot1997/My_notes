@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Minecrraft/Основные моменты по серверу.md",
-                "mode": "preview",
+                "file": "PodtgreSQL/Импорт экспорт дампа.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Основные моменты по серверу"
+              "title": "Импорт экспорт дампа"
             }
           }
         ],
@@ -277,16 +277,21 @@
   },
   "active": "b1c4ef0ba82167df",
   "lastOpenFiles": [
+    "PodtgreSQL/Настройка внешнего подключения.md",
+    "PodtgreSQL/Просмотр всех БД PostrgeSQL.md",
+    "Вопросы.md",
+    "PodtgreSQL/Импорт экспорт дампа.md",
+    "PodtgreSQL/Изменение пароля пользователя.md",
+    "PodtgreSQL/Выявление нагрузки.md",
+    "Minecrraft/Основные моменты по серверу.md",
     "Minecrraft/Rclone - для синхронизации с облачным хранилищем.md",
     "Minecrraft/Buckup.md",
     "Minecrraft/Команды.md",
-    "Minecrraft/Основные моменты по серверу.md",
     "Полезные команды.md",
     "ISP Manager/О панели.md",
     "ISP Manager/БО как включить удаленный доступ.md",
     "ISP Manager/Чиним панельку.md",
     "BitrixVM/Установка серта.md",
-    "Вопросы.md",
     "Проверка отправки почты.md",
     "Certbot/LE wildcard.md",
     "Certbot/Standart Let's Encrypt.md",
@@ -299,11 +304,6 @@
     "MySQL/Команда MySQL.md",
     "MySQL/Команда mysqldump.md",
     "MySQL/Основные команды в консоли MySQL.md",
-    "MySQL/Пакет MySQL.md",
-    "WordPress/Перенос.md",
-    "HestiaCP/Перенос сайта.md",
-    "Работа с Nexus.md",
-    "Работа с Tmux.md",
     "Снимок экрана 2024-11-03 103735.png",
     "PodtgreSQL",
     "Сеть",
