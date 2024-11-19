@@ -160,9 +160,21 @@
               "icon": "lucide-file",
               "title": "Перенос сайта"
             }
+          },
+          {
+            "id": "e6b6f8085ddafd5d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -303,7 +315,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "a52685f414bdf967",
+  "active": "e6b6f8085ddafd5d",
   "lastOpenFiles": [
     "HestiaCP/CLI Reference.md",
     "На подумать.md",
