@@ -181,12 +181,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Настройка time zone.md",
+                "file": "MySQL/Восстановление MySQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Настройка time zone"
+              "title": "Восстановление MySQL"
             }
           }
         ],
@@ -333,8 +333,28 @@
   },
   "active": "727c65a6a119bccb",
   "lastOpenFiles": [
-    "BitrixVM/Расширения PHP.md",
+    "Сеть/Настройка резолва.md",
+    "MySQL/Восстановление MySQL.md",
+    "Сеть/Маскардинг.md",
+    "Сеть/Проверка доступности порта.md",
+    "Сеть/Iptables.md",
+    "IPTABLES/Основное.md",
+    "Сеть/UFW.md",
+    "Сеть/fierwall-cmd.md",
+    "Сеть/firewall-cmd/Основное.md",
+    "Сеть/firewall-cmd",
+    "Сеть/UFW/Ссылки.md",
+    "Сеть/UFW/Основные команды.md",
+    "IPTABLES",
+    "Проверка отправки почты.md",
+    "Работа с Nexus.md",
+    "Работа с Tmux.md",
+    "Снимок экрана 2024-11-03 103735.png",
+    "Утилиты Beget.md",
+    "Чек-лист.md",
+    "Чиним grub.md",
     "Настройка time zone.md",
+    "BitrixVM/Расширения PHP.md",
     "Неделя 3.md",
     "HestiaCP/CLI Reference.md",
     "На подумать.md",
@@ -343,32 +363,12 @@
     "Bash/mtr.md",
     "Certbot/Standart Let's Encrypt.md",
     "Неделя 1.md",
-    "Неделя 2.md",
-    "MySQL/SQL Mode.md",
-    "MySQL/Сброс root пароля.md",
-    "MySQL/Пакет MySQL.md",
-    "MySQL/Основные команды в консоли MySQL.md",
-    "MySQL/Настройка my.cnf.md",
-    "MySQL/Команда mysqldump.md",
-    "MySQL/Команда MySQL.md",
-    "На подумать.md",
-    "Утилиты Beget.md",
-    "Вопросы.md",
-    "PodtgreSQL/Импорт экспорт дампа.md",
-    "PodtgreSQL/Настройка внешнего подключения.md",
-    "PodtgreSQL/Просмотр всех БД PostrgeSQL.md",
-    "PodtgreSQL/Изменение пароля пользователя.md",
-    "PodtgreSQL/Выявление нагрузки.md",
-    "Minecrraft/Основные моменты по серверу.md",
     "Certbot",
-    "Снимок экрана 2024-11-03 103735.png",
     "PodtgreSQL",
     "Сеть",
     "beget",
     "Bash/swap",
     "Bash/top",
-    "fail2ban",
-    "test.html",
-    "Minecrraft"
+    "fail2ban"
   ]
 }
