@@ -5,7 +5,8 @@
 
 - [блокировка ip](https://besthost.by/list/iptables/)
 - [Iptables Essentials](https://www.digitalocean.com/community/tutorials/iptables-essentials-common-firewall-rules-and-commands) #digital_ocean
-- 
+- https://www.digitalocean.com/community/tutorials/iptables-essentials-common-firewall-rules-and-commands
+- https://translate.google.com/translate?sl=auto&tl=ru&u=https%3A%2F%2Fwww.digitalocean.com%2Fcommunity%2Ftutorials%2Fiptables-essentials-common-firewall-rules-and-commands
 
 ---
 

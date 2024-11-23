@@ -275,6 +275,15 @@
   },
   "active": "2eeb89da26d199e2",
   "lastOpenFiles": [
+    "Сеть/Настройка резолва.md",
+    "Сеть/Маскардинг.md",
+    "Сеть/firewall-cmd/Основное.md",
+    "Сеть/firewall-cmd",
+    "Сеть/UFW/Ссылки.md",
+    "Сеть/UFW/Основные команды.md",
+    "Сеть/UFW",
+    "Настройка time zone.md",
+    "MySQL/Восстановление MySQL.md",
     "Вопросы.md",
     "Чек-лист.md",
     "ISP Manager/О панели.md",
@@ -295,13 +304,6 @@
     "Certbot",
     "BitrixVM/Расширения PHP.md",
     "Bash/Скрипты.md",
-    "Без названия.md",
-    "Неделя 3.md",
-    "Docker/Docker-compose основы.md",
-    "Docker/Docker основы работы с контейнером.md",
-    "Docker/Курс по Docker.md",
-    "Неделя 1.md",
-    "Неделя 2.md",
     "Снимок экрана 2024-11-03 103735.png",
     "PodtgreSQL",
     "beget",
@@ -309,8 +311,6 @@
     "Bash/swap",
     "Bash/top",
     "fail2ban",
-    "test.html",
-    "Minecrraft",
-    "UFW"
+    "test.html"
   ]
 }
