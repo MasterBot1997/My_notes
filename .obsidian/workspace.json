@@ -1,212 +1,41 @@
 {
   "main": {
-    "id": "9d08e9645969c65b",
+    "id": "655196b9078c7aee",
     "type": "split",
     "children": [
       {
-        "id": "4a9a0482cbc4a41d",
+        "id": "fcf64f59bc4fea79",
         "type": "tabs",
         "children": [
           {
-            "id": "00917ccff3456838",
+            "id": "652a2a79d0a067b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HestiaCP/Перенос сайта.md",
+                "file": "На потестить/pv.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Перенос сайта"
-            }
-          },
-          {
-            "id": "e2f770173355f176",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bash/tar.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "tar"
-            }
-          },
-          {
-            "id": "6e60a3615cb129c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bash/fsck.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "fsck"
-            }
-          },
-          {
-            "id": "b0f2e2a47e01766b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "beget/sprutio vps.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "sprutio vps"
-            }
-          },
-          {
-            "id": "5d6db87b570765ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Вопросы.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Вопросы"
-            }
-          },
-          {
-            "id": "d7fcf002ab1ef957",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker/Курс по Docker.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Курс по Docker"
-            }
-          },
-          {
-            "id": "b2923caae993311c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.5"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.5"
-            }
-          },
-          {
-            "id": "c8bd526dfa011e80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ISP Manager/О панели.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "О панели"
-            }
-          },
-          {
-            "id": "2eeb89da26d199e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Чек-лист.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-<<<<<<< HEAD
-              "title": "Импорт экспорт дампа"
-            }
-          },
-          {
-            "id": "0decb201c80ecd06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Certbot/LE wildcard.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LE wildcard"
-            }
-          },
-          {
-            "id": "a52685f414bdf967",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HestiaCP/Перенос сайта.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Перенос сайта"
-            }
-          },
-          {
-            "id": "e6b6f8085ddafd5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BitrixVM/Расширения PHP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Расширения PHP"
-            }
-          },
-          {
-            "id": "727c65a6a119bccb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Полезные команды.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Полезные команды"
-=======
-              "title": "Чек-лист"
->>>>>>> c282cc70f48989a92f58308356674d08349c224c
+              "title": "pv"
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "8f4847769d37cf7b",
+    "id": "fc3df13e575352f1",
     "type": "split",
     "children": [
       {
-        "id": "5aca159cc271e236",
+        "id": "85c92db4ca7ab852",
         "type": "tabs",
         "children": [
           {
-            "id": "52eb1de86d8d9998",
+            "id": "b92fa49041b2d76c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -218,7 +47,7 @@
             }
           },
           {
-            "id": "a667fc1cc20c27a9",
+            "id": "27b6f6f4c6841ae4",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -235,7 +64,7 @@
             }
           },
           {
-            "id": "eca7adae07785f0f",
+            "id": "037f22b6ff43cf86",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -251,20 +80,20 @@
     "width": 300
   },
   "right": {
-    "id": "d9e3e4a99f8166b9",
+    "id": "716bb9b6cfa4f542",
     "type": "split",
     "children": [
       {
-        "id": "8ddb1be9d96836a1",
+        "id": "209a03c088b49d8c",
         "type": "tabs",
         "children": [
           {
-            "id": "f2f0bb9c0e988634",
+            "id": "bea95ce4fd1374fc",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/Курс по Docker.md",
+                "file": "Полезные команды.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -274,25 +103,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Курс по Docker"
+              "title": "Обратные ссылки для Полезные команды"
             }
           },
           {
-            "id": "59544e7160452c9a",
+            "id": "644a7b61a573c792",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/Курс по Docker.md",
+                "file": "Полезные команды.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Курс по Docker"
+              "title": "Исходящие ссылки из Полезные команды"
             }
           },
           {
-            "id": "070897f17e502c71",
+            "id": "26bea57be355efc9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -305,15 +134,15 @@
             }
           },
           {
-            "id": "51ec3388d2c1d33e",
+            "id": "c38a0658a029ac7e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/Курс по Docker.md"
+                "file": "Полезные команды.md"
               },
               "icon": "lucide-list",
-              "title": "Структура Курс по Docker"
+              "title": "Структура Полезные команды"
             }
           }
         ]
@@ -333,69 +162,24 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "2eeb89da26d199e2",
+  "active": "652a2a79d0a067b9",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "Проверка отправки почты.md",
-    "Полезные команды.md",
-    "Неделя 3.md",
-    "Неделя 2.md",
-    "Неделя 1.md",
-    "ISP Manager/О панели.md",
     "MySQL/Восстановление MySQL.md",
-=======
->>>>>>> c282cc70f48989a92f58308356674d08349c224c
-    "Сеть/Настройка резолва.md",
-    "Сеть/Маскардинг.md",
-    "Сеть/firewall-cmd/Основное.md",
-    "Сеть/firewall-cmd",
-    "Сеть/UFW/Ссылки.md",
-    "Сеть/UFW/Основные команды.md",
-<<<<<<< HEAD
-    "IPTABLES",
-    "Работа с Nexus.md",
-    "Работа с Tmux.md",
-    "Снимок экрана 2024-11-03 103735.png",
-    "Утилиты Beget.md",
-    "Чек-лист.md",
-    "Чиним grub.md",
-    "Настройка time zone.md",
-    "BitrixVM/Расширения PHP.md",
+    "На потестить/pv.md",
+    "На потестить",
+    "HestiaCP/Перенос сайта.md",
+    "ISP Manager/О панели.md",
+    "ISP Manager/Чиним панельку.md",
+    "beget/sprutio vps.md",
+    "Bash/tar/Посмотреть файлы в архиве.md",
     "HestiaCP/CLI Reference.md",
-    "На подумать.md",
-    "Текстовый документ.txt",
-=======
-    "Сеть/UFW",
-    "Настройка time zone.md",
-    "MySQL/Восстановление MySQL.md",
-    "Вопросы.md",
-    "Чек-лист.md",
-    "ISP Manager/О панели.md",
-    "Сеть/Проверка доступности порта.md",
-    "Сеть/fierwall-cmd.md",
-    "Сеть/UFW.md",
-    "Проверка отправки почты.md",
-    "На подумать.md",
+    "Полезные команды.md",
+    "Bash/tar",
     "Виды челенджей Let's Encrypt.md",
-    "PodtgreSQL/Просмотр всех БД PostrgeSQL.md",
-    "PodtgreSQL/Настройка внешнего подключения.md",
-    "PodtgreSQL/Импорт экспорт дампа.md",
-    "MySQL/Настройка my.cnf.md",
-    "MySQL/SQL Mode.md",
-    "ISP Manager/БО как включить удаленный доступ.md",
-    "Certbot/LE wildcard.md",
-    "Certbot/Standart Let's Encrypt.md",
->>>>>>> c282cc70f48989a92f58308356674d08349c224c
-    "Certbot",
-    "BitrixVM/Расширения PHP.md",
-    "Bash/Скрипты.md",
-    "Снимок экрана 2024-11-03 103735.png",
-    "PodtgreSQL",
-    "beget",
-    "Сеть",
-    "Bash/swap",
-    "Bash/top",
-    "fail2ban",
-    "test.html"
+    "Вопросы.md",
+    "Сеть/firewall-cmd/Основное.md",
+    "Docker/Курс по Docker.md",
+    "BitrixVM/Логи панели.md",
+    "BitrixVM/Заметки по системе.md"
   ]
 }
