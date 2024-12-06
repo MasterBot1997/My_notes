@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "На потестить/pv.md",
+                "file": "Полезные команды.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pv"
+              "title": "Полезные команды"
             }
           }
         ]
@@ -164,12 +164,14 @@
   },
   "active": "652a2a79d0a067b9",
   "lastOpenFiles": [
-    "MySQL/Восстановление MySQL.md",
-    "На потестить/pv.md",
-    "На потестить",
-    "HestiaCP/Перенос сайта.md",
     "ISP Manager/О панели.md",
     "ISP Manager/Чиним панельку.md",
+    "Bash/Strace.md",
+    "Bash/lsof.md",
+    "На потестить/pv.md",
+    "MySQL/Восстановление MySQL.md",
+    "На потестить",
+    "HestiaCP/Перенос сайта.md",
     "beget/sprutio vps.md",
     "Bash/tar/Посмотреть файлы в архиве.md",
     "HestiaCP/CLI Reference.md",
