@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Без названия.md",
+                "file": "Без названия 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Без названия"
+              "title": "Без названия 1"
             }
           },
           {
@@ -177,9 +177,10 @@
   },
   "active": "0d6c0dabea60520c",
   "lastOpenFiles": [
+    "Без названия.md",
+    "Без названия 1.md",
     "HestiaCP/Перенос сайта.md",
     "Полезные команды.md",
-    "Без названия.md",
     "Bash/rsync/Описание утилиты.md"
   ]
 }
