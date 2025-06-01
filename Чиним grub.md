@@ -188,3 +188,32 @@ sudo update-grub
 sudo reboot
 ```
 
+---
+```
+kgkvhbeoer : ~ [0] # mkdir -p /mnt/boot/efi
+kgkvhbeoer : ~ [0] # mount /dev/vda15 /mnt/boot/efi
+kgkvhbeoer : ~ [0] # chroot /mnt
+grub-install --target=x86_64-efi --efi-directory=/boot/efi --bootloader-id=GRUB
+
+
+mount /dev/vda1 /mnt
+mount /dev/vda15 /mnt/boot/efi
+for i in proc sys dev; do mount --bind /$i /mnt/$i; done
+chroot /mnt
+apt update
+apt install --reinstall linux-image-5.10.0-34-cloud-amd64
+update-initramfs -c -k 5.10.0-34-cloud-amd64
+```
+---
+Узнать версию ядра можно так 
+```
+root@ijkmvzztth:/# ll /lib/modules
+total 4
+drwxr-xr-x 3 root root 4096 May 14 16:07 5.10.0-34-cloud-amd64
+```
+
+---
+
+```
+openssl x509 -in your_cert.pem -text -noout
+```
